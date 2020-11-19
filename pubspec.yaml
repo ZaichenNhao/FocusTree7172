@@ -48,6 +48,8 @@ dependencies:
   auto_size_text: ^2.0.9
   flutter_circular_slider: 2.5.0
 
+  percent_indicator: ^2.1.7
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
